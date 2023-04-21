@@ -15,7 +15,7 @@ function App() {
     }
 
     function handleLikeClick() {
-      setLikes(likes + 1)
+      setLikes(likes + 1) 
       // setLikes(likes => likes + 1 )
     }
   return ( 
